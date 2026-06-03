@@ -1,7 +1,7 @@
 import qrcode
 
 # QR code data
-data = "https://youtu.be/UrsmFxEIp5k?si=xQOdOAWNC7cMQDXJ"
+data = "https://your.link"
 
 # QR code create
 qr = qrcode.QRCode(
